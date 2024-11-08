@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Fill in the blank boxes with correct numbers to help Lily arrange the beads for the bracelet.",
+    "options":["12","÷","","=",""],
+    "answers": ["12","÷","3","=","4"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Help Grace organise the beads evenly for a special anklet by filling in the blank boxes with the correct numbers.",
+    "options":["16","÷","","=",""],
+    "answers": ["16","÷","4","=","4"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "To finish her necklace design, Grace needs to arrange the beads perfectly. Fill in the blank boxes to assist her.",
+    "options":["15","÷","","=",""],
+    "answers": ["15","÷","3","=","5"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Grace needs help arranging beads for her new bracelet. Fill in the blank boxes to complete the design.",
+    "options":["12","÷","","=",""],
+    "answers": ["12","÷","2","=","6"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Help Grace place the beads evenly for a beautiful necklace pattern by completing the blank boxes.",
+    "options":["12","÷","","=",""],
+    "answers": ["12","÷","6","=","2"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Fill in the blank boxes to help Grace arrange beads for a new pair of earrings.",
+    "options":["20","÷","","=",""],
+    "answers": ["20","÷","5","=","4"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "To complete a special pendant, Grace needs to arrange her beads perfectly. Fill in the blank boxes to help her out.",
+    "options":["21","÷","","=",""],
+    "answers": ["21","÷","3","=","7"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "Grace is making a gemstone brooch and wants to use an equal number of beads in each row. Fill in the blanks to help her.",
+    "options":["15","÷","","=",""],
+    "answers": ["15","÷","5","=","3"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Help Grace with her beaded headband design by filling in the blank boxes to arrange the beads evenly.",
+    "options":["32","÷","","=",""],
+    "answers": ["32","÷","4","=","8"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "For a new ring, Grace needs just the right number of beads. Fill in the blank boxes to help her with the arrangement.",
+    "options":["21","÷","","=",""],
+    "answers": ["21","÷","7","=","3"],
+    "secondImg":"./images/10.jpg"
+  }
+]
